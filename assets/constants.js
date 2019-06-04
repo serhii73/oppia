@@ -571,7 +571,7 @@ var constants = {
       }
   },
 
-  "ALLOW_YAML_FILE_UPLOAD": false,
+  "ALLOW_YAML_FILE_UPLOAD": true,
 
   "DEV_MODE": true
 };
